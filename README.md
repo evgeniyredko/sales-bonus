@@ -80,5 +80,4 @@ analyzeSalesData(data, {
 ## 📌 Стек
 
 - JavaScript (ES6+)
-- HTML
 - Node.js
